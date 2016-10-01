@@ -14,3 +14,4 @@ arguments: directory, id
 ###corr.R
 contains function that returns numeric vector of correlations between nitrate and sulfate readings from monitors with complete cases above desired threshold
 arguments: directory, threshold
+source calls: complete.R
